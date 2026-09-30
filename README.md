@@ -34,6 +34,6 @@ Projects coming soon.
 
 ## 🌐 Connect with me
 
-- LinkedIn: [David Andrés Cuadrado](TU_LINKEDIN)
+- LinkedIn: [David Andrés Cuadrado](www.linkedin.com/in/david-andrés-cuadrado-cuadrado-8343551b5)
 - Portfolio: Coming soon
 - Email: davidcuadrado.dev@gmail.com
