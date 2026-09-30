@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/david-andrés-cuadrado-cuadrado-8343551b5">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/david-andrés-cuadrado-cuadrado-8343551b5">LinkedIn</a>
   ·
   <a href="TU_PORTAFOLIO">Portfolio</a>
   ·
@@ -216,7 +216,7 @@ Currently strengthening my professional portfolio through projects involving:
 
 Systems Engineer
 
-[LinkedIn](www.linkedin.com/in/david-andrés-cuadrado-cuadrado-8343551b5)
+[LinkedIn](https://www.linkedin.com/in/david-andrés-cuadrado-cuadrado-8343551b5)
 ·
 [Portfolio](TU_PORTAFOLIO)
 ·
