@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="TU_LINKEDIN">LinkedIn</a>
+  <a href="www.linkedin.com/in/david-andrés-cuadrado-cuadrado-8343551b5">LinkedIn</a>
   ·
   <a href="TU_PORTAFOLIO">Portfolio</a>
   ·
