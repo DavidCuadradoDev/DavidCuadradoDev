@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm David Andrés Cuadrado 👋
 
-<!--
-**DavidCuadradoDev/DavidCuadradoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Systems Engineer | Software Developer | Data Analyst | Networking & Cybersecurity
 
-Here are some ideas to get you started:
+Systems Engineer with experience in software development, data analytics,
+network infrastructure and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical, secure and scalable technology solutions.
+
+## 🚀 Areas of Expertise
+
+- 💻 Software & Web Development
+- 📊 Data Analytics & Business Intelligence
+- 🌐 Networking & Infrastructure
+- 🔐 Cybersecurity
+
+## 🛠️ Technologies
+
+### Development
+Python · Flask · Java · JavaScript · HTML · CSS · REST APIs
+
+### Data & BI
+SQL · PostgreSQL · Power BI · Power Query · DAX · ETL
+
+### Networking
+TCP/IP · VLANs · Routing · Switching · Network Design
+
+### Cybersecurity
+Network Security · Vulnerability Analysis · Hardening · Security Labs
+
+## 📌 Featured Projects
+
+Projects coming soon.
+
+## 🌐 Connect with me
+
+- LinkedIn: [David Andrés Cuadrado](TU_LINKEDIN)
+- Portfolio: Coming soon
+- Email: davidcuadrado.dev@gmail.com
